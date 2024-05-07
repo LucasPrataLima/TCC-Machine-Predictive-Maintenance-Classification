@@ -1,2 +1,2 @@
 # TCC Machine Predictive Maintenance Classification
- Código usado no meu TCC
+ Código usado no TCC de Lucas Prata e joão Almeida
